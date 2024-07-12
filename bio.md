@@ -1,0 +1,1 @@
+Hello, World! My name is Lukas Reis and I am 14 years old. And I am a Skater, Musician, Gamer, Photographer, Brother of 5 [Ayo](https://ayoreis.com/), [Manni](https://mannireis.com/), India, Kai, Elea. I live in Peniche, Portugal. And i was born in Finland.
