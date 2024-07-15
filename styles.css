@@ -1,6 +1,5 @@
 * {
-    font-family: monospace;
-
+    
 }
 
 body {
@@ -38,11 +37,14 @@ header {
         list-style-type: none;
 
         display: flex;
-        justify-content: flex-start;
-        flex-wrap: nowrap;
+        justify-content: space-between;
+
+        box-sizing: border-box;
+        margin: 0;
+        padding: 0;
     }
     > ul > hr {
-        height: 5mm;
+        height: 20;
 
     }
 
@@ -57,7 +59,11 @@ footer {
             display: flex;
             justify-content: space-between;
 
+            box-sizing: border-box;
             
+            margin: 0;
+            padding: 0;
+            margin-top: 20;
         }
 
 }
