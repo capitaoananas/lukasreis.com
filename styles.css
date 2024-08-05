@@ -34,7 +34,7 @@ header {
         list-style-type: none;
 
         display: flex;
-        justify-content: start;
+        justify-content: space-between;
 
         box-sizing: border-box;
         margin: 0;
@@ -42,10 +42,6 @@ header {
     }
     > ul > hr {
         height: 20;
-        box-sizing: border-box;
-        margin: 20;
-        padding: 0;
-        margin-top: 5;
 
     }
 
